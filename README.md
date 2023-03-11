@@ -7,10 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
   - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/bvongpradith/setup-azure-sub-and-resource)
   - [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/jacksonmalms/create-azure-vm)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
 
 <h2>Connect with me:</h2>
 
