@@ -5,7 +5,7 @@
 -  <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/bvongpradith/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/bvongpradith/osticket--post)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/bvongpradith/osticket-lifecycle)
 -  <b>Microsoft Azure</b>
   - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/bvongpradith/setup-azure-sub-and-resource)
   - [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/bvongpradith/creating-azure-vm)
